@@ -19,7 +19,7 @@
 
 ## 🛠 Технологічний стек
 
-* **Frontend:** React.js, Vite, Tailwind CSS (для стилізації).
+* **Frontend:** React.js, Vite.
 * **Backend:** Node.js, Express.js.
 * **Database:** MongoDB (з використанням Mongoose).
 * **Tools:** Axios, Git.
